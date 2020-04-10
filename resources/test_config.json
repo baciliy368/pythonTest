@@ -1,0 +1,7 @@
+{
+  "clientConfigFilePath": "../resources/client.json",
+  "implicitlyWait": 50,
+  "cityForSearch": "Abu Dhabi",
+  "connectionUrl": "http://localhost:4723/wd/hub",
+  "appId": "com.zdv.secretcloset"
+}
